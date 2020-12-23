@@ -92,8 +92,9 @@ header #menu ul #logo{
 
 .layout p{
 	padding:1%;
-	line-height: 32px;
+	line-height: 2vh;
 	color:white;
+        font-size: 2vw;
 }
 
 /* ************************************** */
