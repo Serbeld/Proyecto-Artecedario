@@ -1,4 +1,4 @@
-﻿*{
+*{
 	padding:0;
 	margin:0;
 }
@@ -71,6 +71,7 @@ header #menu ul #logo{
 
 #main-container header main .text p{
 	padding-left: 10vw;
+    font-size: 2vw;
 }
 
 #main-container header main .image{
@@ -116,5 +117,6 @@ footer{
     background-color: black;
     padding: 150px 20px;
     color: white;
+    font-size: 2vw;
     text-align: center;
 }
