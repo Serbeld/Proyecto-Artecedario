@@ -51,7 +51,7 @@ header #menu ul li a:hover{
 
 header #menu ul #logo{
     margin-right: 30%;
-    margin-left: 8%;
+    margin-left: 5%;
 }
 
 /* ************************************ */
@@ -92,22 +92,22 @@ header #menu ul #logo{
 .layout p{
 	padding:1%;
 	color:white;
-        font-size: 2vw;
+    font-size: 2vw;
 }
 
 /* ************************************** */
 
     .swiper-container {
-      width: 500px;
-      height: 500px;
+      width: 40vw;
+      height: 40vw;
       padding: 50px;
     }
 
     .swiper-slide {
       background-position: center;
       background-size: cover;
-      width: 500px;
-      height: 500px;
+      width: 40vw;
+      height: 40vw;
     }
 
 /* ************************************** */
